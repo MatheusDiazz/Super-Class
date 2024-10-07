@@ -1,3 +1,4 @@
+#navarro template
 from math import sin, cos
 from matplotlib import pyplot as plt
 
